@@ -5,5 +5,7 @@
     &lt;TestId&gt;NUnit3x::29517ED2-ADE2-41CC-9FC4-17C33EDB9B39::net6.0::Weather.Test.WeatherStationTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B6796DBA-EBBE-4C97-86D4-CEB27CD08F47::net6.0::MarsRover.Test.RoverTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::BD86631F-8B7F-4934-ABDC-7CA9AD8E620F::net6.0::GuitarShack.Test.StockMonitorIntegrationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::944B4402-4022-4421-A0E8-2F64BD04F366::net6.0::Dining.Services.Test.BookingServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::944B4402-4022-4421-A0E8-2F64BD04F366::net6.0::Dining.Services.Test.OrderServiceTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
